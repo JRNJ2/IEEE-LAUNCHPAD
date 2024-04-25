@@ -37,7 +37,7 @@
 #### Thoughts on Kerala's Tech Ecosystem:
 
 - Kerala is a good place to learn as an engineer, with all the facilities provided by different organization and government, anyone can get better at any technology.
-- I belive introduction to any technology at the early stage of education can bring a lot of changes in the future for a students and kerala's Tech Ecosystem is doing a great job at it !.
+- I belive introduction to any technology at the early stage of education can bring a lot of changes in the future for a student and kerala's Tech Ecosystem is doing a great job at it !.
 
 #### History of Community Engagement:
 
