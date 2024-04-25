@@ -47,7 +47,7 @@
 
 #### Highly Visible Technical Content:
 
-- As a part of Tinkerhub, Curated a course on SLACK for Engineering Students.[SLACK_COURSE](https://www.notion.so/Slack-Course-Demo-57cadb8161324d60a78eb557ed9b265d)
+- As a part of Tinkerhub LowCode Space, Curated a course on SLACK for Engineering Students.[SLACK_COURSE](https://www.notion.so/Slack-Course-Demo-57cadb8161324d60a78eb557ed9b265d)
 
 #### Highly Used Software Tools:
 
